@@ -3,8 +3,8 @@
 */
 
 type Details = {
-  createAt: {};
-  updateAt: {};
+  createAt: Date;
+  updateAt: Date;
 };
 
 type Page = {
